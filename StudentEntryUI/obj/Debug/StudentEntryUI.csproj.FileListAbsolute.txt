@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe.config
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.pdb
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.Form1.resources
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.Properties.Resources.resources
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.exe
+C:\Users\PC21\Desktop\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.pdb
